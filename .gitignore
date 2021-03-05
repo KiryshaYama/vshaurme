@@ -4,3 +4,4 @@
 ### binary files from sqlite
 /.vscode
 /.DS_Store
+*.sqlite3
